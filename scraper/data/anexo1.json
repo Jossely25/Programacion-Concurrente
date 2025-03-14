@@ -1,0 +1,19 @@
+[
+  {
+    "nombre_fuente_rss": "BBC News",
+    "url_rss": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "nombre_fuente_rss": "The New York Times - Technology",
+    "url_rss": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+  },
+  {
+    "nombre_fuente_rss": "CNN - World",
+    "url_rss": "http://rss.cnn.com/rss/edition_world.rss"
+  },
+  {
+    "nombre_fuente_rss": "COLOMBIA",
+    "url_rss": "https://www.eltiempo.com/rss/colombia.xml"
+  }
+  
+]
